@@ -6,9 +6,8 @@ Most of my personal projects are some form of technology demonstrators, so they 
 
 I'm currently studying in NUS, but I'll be graduating soon!
 
-<a href="https://github.com/sharpstorm?tab=repositories">
-  <img align="top" src= "https://github-readme-stats.vercel.app/api?username=sharpstorm&show_icons=true" />
-</a>
-<a href="https://github.com/sharpstorm?tab=repositories">
-  <img align="top" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=sharpstorm&layout=compact" />
-</a>
+[![sharpstorm's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharpstorm&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/sharpstorm#gh-dark-mode-only)
+[![sharpstorm's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharpstorm&show_icons=true#gh-light-mode-only)](https://github.com/sharpstorm#gh-light-mode-only)
+
+[![sharpstorm's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharpstorm&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/sharpstorm#gh-dark-mode-only)
+[![sharpstorm's  Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharpstorm&layout=compact#gh-light-mode-only)](https://github.com/sharpstorm#gh-light-mode-only)
