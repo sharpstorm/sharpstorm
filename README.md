@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi There! I'm Zong Han!
 
-<!--
-**sharpstorm/sharpstorm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My projects are primarily centered around backend and networking technologies that I want to explore, but I inevitably am required to dabble in some front-end (React and Vanilla JS).
 
-Here are some ideas to get you started:
+Most of my personal projects are some form of technology demonstrators, so they are quick and dirty prototypes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently studying in NUS, but I'll be graduating soon!
+
+<a href="https://github.com/sharpstorm?tab=repositories">
+  <img align="top" src= "https://github-readme-stats.vercel.app/api?username=sharpstorm&show_icons=true" />
+</a>
+<a href="https://github.com/sharpstorm?tab=repositories">
+  <img align="top" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=sharpstorm&layout=compact" />
+</a>
