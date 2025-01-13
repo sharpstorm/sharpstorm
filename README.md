@@ -4,8 +4,6 @@ My projects are primarily centered around backend and networking technologies th
 
 Most of my personal projects are some form of technology demonstrators, so they are quick and dirty prototypes.
 
-I just graduated from NUS!
-
 [![sharpstorm's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharpstorm&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/sharpstorm#gh-dark-mode-only)
 [![sharpstorm's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharpstorm&show_icons=true#gh-light-mode-only)](https://github.com/sharpstorm#gh-light-mode-only)
 
